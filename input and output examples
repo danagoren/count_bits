@@ -1,0 +1,33 @@
+user@ubuntu:~/Desktop/count_bits$ make
+make: 'count_bits' is up to date.
+user@ubuntu:~/Desktop/count_bits$ ./count_bits
+
+Please insert a number
+0
+
+The number 0 has 0 bits set in its binary representation
+user@ubuntu:~/Desktop/count_bits$ ./count_bits
+
+Please insert a number
+1
+
+The number 1 has 1 bits set in its binary representation
+user@ubuntu:~/Desktop/count_bits$ ./count_bits
+
+Please insert a number
+16
+
+The number 16 has 1 bits set in its binary representation
+user@ubuntu:~/Desktop/count_bits$ ./count_bits
+
+Please insert a number
+15
+
+The number 15 has 4 bits set in its binary representation
+user@ubuntu:~/Desktop/count_bits$ ./count_bits
+
+Please insert a number
+-1
+
+The number -1 has 32 bits set in its binary representation
+
